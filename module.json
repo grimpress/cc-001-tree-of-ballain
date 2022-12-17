@@ -27,7 +27,7 @@
   "styles": [
     "./styles/gp_styles.css"
   ],
-  "manifest": "https://raw.githubusercontent.com/grimpress/cc-001-tree-of-ballain/master/module.json",
-  "download": "https://github.com/grimpress/cc-001-tree-of-ballain/raw/main/cc-001-tree-of-ballain.zip"
+  "manifest": "https://raw.githubusercontent.com/Grim-Press-FoundryVTT-Content/cc-001-tree-of-ballain/main/module.json",
+  "download": "https://github.com/Grim-Press-FoundryVTT-Content/cc-001-tree-of-ballain/raw/main/cc-001-tree-of-ballain.zip"
   "protected": true
 }
