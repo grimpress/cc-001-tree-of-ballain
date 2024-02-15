@@ -6,3 +6,5 @@
 - New Magic Item: Dagger of Corruption
 - Detailed Battle Map: GM numbered, Player grid, and Player no-grid versions
 - Unique Art throughout the adventure  
+
+We're providing this module for free to Foundry VTT users, so you can sample our Cavern Crawls series. Like what you see? Check out all of our Foundry VTT modules on the [**Grim Press Store**](https://grimpress.net/product-tag/foundry-vtt/).
