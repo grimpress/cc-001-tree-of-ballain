@@ -28,6 +28,6 @@
     "./styles/gp_styles.css"
   ],
   "manifest": "https://raw.githubusercontent.com/grimpress/cc-001-tree-of-ballain/master/module.json",
-  "download": "https://github.com/grimpress/cc-001-tree-of-ballain/raw/main/cc-001-tree-of-ballain.zip"
+  "download": "https://github.com/grimpress/cc-001-tree-of-ballain/raw/main/cc-001-tree-of-ballain.zip",
   "protected": false
 }
